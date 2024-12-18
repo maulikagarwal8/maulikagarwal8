@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Maulik, and I'm an BIT MESRA undergrad in computer science engineering interested in all things related to devlopment of software!.
+
+- 🌱 I recently built a ml model which detects what type of flower it is by scanning its image,check it out [here](...)
+- 👯 I’m looking to collaborate on projects involving python and ml concepts.
+- 📫 How to reach me: 
+  -Send an email to maulikagarwal8024@gmail.com
 <!--
 **maulikagarwal8/maulikagarwal8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
