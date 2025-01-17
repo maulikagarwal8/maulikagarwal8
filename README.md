@@ -5,7 +5,7 @@
 
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right" height="250px" width="350px"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right" height="255px" width="350px"/>
   A passionate Computer & Science Engineering student, Interested in all aspects related to development of software!.
   My expertise includes <b>web development</b>,<b>AI/ML</b>
 </p>
@@ -29,13 +29,13 @@
 ## 📊 GitHub Statistics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maulikagarwal8&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=maulikagarwal8&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulikagarwal8&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulikagarwal8&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maulikagarwal8&theme=midnight_purple" />
+  <img height=160 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maulikagarwal8&theme=midnight_purple" />
 </a>
 
 
