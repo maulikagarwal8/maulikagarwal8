@@ -1,6 +1,15 @@
-## Hi there 👋
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Workbench&size=25&letterSpacing=0.3rem&duration=4000&pause=500&center=true&vCenter=true&width=700&lines=Hi+There+%F0%9F%91%8B;I'm+Maulik;Computer+Science+undergrad+at+BIT+MESRA" alt="Typing SVG" />
+</h1
 
-My name is Maulik, and I'm an BIT MESRA undergrad in computer science engineering interested in all things related to devlopment of software!.
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right" height="250px" width="350px"/>
+  A passionate Computer & Science Engineering student, Interested in all aspects related to development of software!.
+  My expertise includes <b>web development</b>,<b>AI/ML</b>
+</p>
+
 
 - 🌱 I recently built a ml model which detects what type of flower it is by scanning its image,check it out [here](...)
 - 🔭 I’m currently working on improving my problem solving and communication skills.
@@ -9,7 +18,28 @@ My name is Maulik, and I'm an BIT MESRA undergrad in computer science engineerin
   -Send an email to maulikagarwal8024@gmail.com
 
 
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right"/>
+## 🛠️ Technologies & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nodejs&theme=dark" alt="Skills"><br>
+  <img src="https://skillicons.dev/icons?i=python,selenium,pytorch,mysql,git,vscode&theme=dark" alt="Skills">
+</div>
+
+
+## 📊 GitHub Statistics
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maulikagarwal8&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulikagarwal8&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maulikagarwal8&theme=midnight_purple" />
+</a>
+
+
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -28,7 +58,7 @@ My name is Maulik, and I'm an BIT MESRA undergrad in computer science engineerin
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 </p>
-
+-->
 
 <!--
 **maulikagarwal8/maulikagarwal8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
