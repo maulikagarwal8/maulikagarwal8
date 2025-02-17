@@ -1,9 +1,9 @@
 <!-- Animated Header -->
 <div>
-  <img height=40 src="assets/cat.jpg"/>
+  <img height=90 src="assets/cat.jpg"/>
   <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Workbench&size=25&letterSpacing=0.3rem&duration=4000&color=b2e0d4&pause=500&center=true&vCenter=true&width=680&lines=Hi+There+%F0%9F%91%8B;I'm+Maulik;Computer+Science+undergrad+at+BIT+MESRA" alt="Typing SVG" />
 </div>
-<hr/>
+
 <p align="left">
   <div align="center">
     <img src="https://img.shields.io/github/followers/maulikagarwal8?style=flat&logoSize=auto&label=FOLLOWERS&color=blueviolet"/>
