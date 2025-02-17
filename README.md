@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <h1>
-  <img height=80 src="assets/cat.jpg"/>
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Workbench&size=25&letterSpacing=0.3rem&duration=4000&color=b2e0d4&pause=500&center=true&vCenter=true&width=680&lines=Hi+There+%F0%9F%91%8B;I'm+Maulik;Computer+Science+undergrad+at+BIT+MESRA" alt="Typing SVG" />
+  <img height=50 src="assets/cat.jpg"/>
+  <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Workbench&size=25&letterSpacing=0.3rem&duration=4000&color=b2e0d4&pause=500&center=true&vCenter=true&width=680&lines=Hi+There+%F0%9F%91%8B;I'm+Maulik;Computer+Science+undergrad+at+BIT+MESRA" alt="Typing SVG" />
 </h1>
 
 <p align="left">
