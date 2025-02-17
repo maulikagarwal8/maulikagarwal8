@@ -1,11 +1,18 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Workbench&size=25&letterSpacing=0.3rem&duration=4000&pause=500&center=true&vCenter=true&width=700&lines=Hi+There+%F0%9F%91%8B;I'm+Maulik;Computer+Science+undergrad+at+BIT+MESRA" alt="Typing SVG" />
+  <img align="left" height=110 src="assets/cat.jpg"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Workbench&size=25&letterSpacing=0.3rem&duration=4000&color=b2e0d4&pause=500&center=true&vCenter=true&width=700&lines=Hi+There+%F0%9F%91%8B;I'm+Maulik;Computer+Science+undergrad+at+BIT+MESRA" alt="Typing SVG" />
 </h1
 
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" align="right" height="255px" width="350px"/>
+  <div align="center">
+    <img src="https://img.shields.io/github/followers/maulikagarwal8?style=flat&logoSize=auto&label=FOLLOWERS&color=blueviolet"/>
+    <a href=""><img src="https://img.shields.io/badge/GMAIL-D14836?logo=gmail&logoColor=white"/></a>
+    <a href=""><img src="https://custom-icon-badges.demolab.com/badge/LINKED--IN-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
+    <img src="https://komarev.com/ghpvc/?username=maulikagarwal8&color=blueviolet&label=PROFILE+VISITED&abbreviated=true"/>
+  </div>
+  <img src="assets/coding_boy.gif" align="right" height="255px" width="350px"/>
   A passionate Computer & Science Engineering student, Interested in all aspects related to development of software!.
   My expertise includes <b>web development</b>,<b>AI/ML</b>
 </p>
@@ -21,8 +28,8 @@
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nodejs&theme=dark" alt="Skills"><br>
-  <img src="https://skillicons.dev/icons?i=python,selenium,pytorch,mysql,git,vscode&theme=dark" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,bootstrap,react,nodejs&theme=dark" alt="Skills"><br>
+  <img src="https://skillicons.dev/icons?i=python,selenium,pytorch,opencv,mysql,git,postman,vscode&theme=dark" alt="Skills">
 </div>
 
 
