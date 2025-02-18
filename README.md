@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <div align="center">
-  <img height=90 src="assets/cat.jpg"/>
+  <img height=80 src="assets/cat.jpg"/>&nbsp;&nbsp;
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Workbench&size=25&letterSpacing=0.3rem&duration=4000&color=b2e0d4&pause=500&center=true&vCenter=true&width=680&lines=Hi+There+%F0%9F%91%8B;I'm+Maulik;Computer+Science+undergrad+at+BIT+MESRA" alt="Typing SVG" />
 </div>
 
@@ -43,7 +43,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=160 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maulikagarwal8&theme=midnight_purple" />
 </a>
-
 
 <!--
 **maulikagarwal8/maulikagarwal8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
