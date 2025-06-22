@@ -12,12 +12,12 @@
     <img src="https://komarev.com/ghpvc/?username=maulikagarwal8&color=blueviolet&label=PROFILE+VISITED&abbreviated=true"/>
   </div>
   <img src="assets/coding_boy.gif" align="right" height="255px" width="350px"/>
-  A passionate Computer & Science Engineering student, Interested in all aspects related to development of software!.
+  A passionate Computer Science Engineering student from Birla Institute of Technology Mesra Interested in all aspects related to development of software!
   My expertise includes <b>web development</b>,<b>AI/ML</b>
 </p>
 
 
-- 🌱 I recently built a ml model which detects what type of flower it is by scanning its image,check it out [here](...)
+- 🌱 I recently built a ml model which detects what type of flower it is by scanning its image,check it out [here](https://github.com/maulikagarwal8/Any-Flower-Recognizer-using-CNN)
 - 🔭 I’m currently working on improving my problem solving and communication skills.
 - 👯 I’m looking to collaborate on projects involving python and ml concepts.
 - 📫 How to reach me: 
