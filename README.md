@@ -8,7 +8,7 @@
   <div align="center">
     <img src="https://img.shields.io/github/followers/maulikagarwal8?style=flat&logoSize=auto&label=FOLLOWERS&color=blueviolet"/>
     <a href="mailto:maulikagarwal8024@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?logo=gmail&logoColor=white"/></a>
-    <a href=""><img src="https://custom-icon-badges.demolab.com/badge/LINKED--IN-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
+    <a href="linkedin.com/in/maulik-agarwal-039b73297"><img src="https://custom-icon-badges.demolab.com/badge/LINKED--IN-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
     <img src="https://komarev.com/ghpvc/?username=maulikagarwal8&color=blueviolet&label=PROFILE+VISITED&abbreviated=true"/>
   </div>
   <img src="assets/coding_boy.gif" align="right" height="255px" width="350px"/>
@@ -27,8 +27,9 @@
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,bootstrap,react,nodejs&theme=dark" alt="Skills"><br>
-  <img src="https://skillicons.dev/icons?i=python,selenium,pytorch,opencv,mysql,git,postman,vscode&theme=dark" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,azure,mysql,git,github,postman,vscode&theme=dark" alt="Skills"><br>
+  <img src="https://skillicons.dev/icons?i=python,selenium,flask,pytorch,sklearn,opencv&theme=dark" alt="Skills"><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb&theme=dark" alt="Skills">
 </div>
 
 
