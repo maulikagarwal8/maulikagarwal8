@@ -17,12 +17,16 @@
 </p>
 
 
-- 🌱 I recently built a ml model which detects what type of flower it is by scanning its image,check it out [here](https://github.com/maulikagarwal8/Any-Flower-Recognizer-using-CNN)
 - 🔭 I’m currently working on improving my problem solving and communication skills.
 - 👯 I’m looking to collaborate on projects involving python and ml concepts.
 - 📫 How to reach me: 
   -Send an email to maulikagarwal8024@gmail.com
+  <br><br>
 
+## 🔧 Featured Projects
+- **Smart-Watch-using-ESP32-Microcontroller** - This project involves the design and development of a smart watch built using the ESP-32 microcontroller, specifically tailored to assist elderly individuals in monitoring their health and safety.[View Code](https://github.com/maulikagarwal8/Smart-Watch-using-ESP32-Microcontroller)
+- **Flower Detection using CNN** – A ml model that identifies flower species from images uploaded by user. [View Code](https://github.com/maulikagarwal8/Any-Flower-Recognizer-using-CNN)
+-  **Personal-AI-Health-Assistant** - Personal Health Assistant powered by AI to give approximate remedies/cures for the symptoms provided by user.[View Code](https://github.com/maulikagarwal8/Personal-AI-Health-Assistant)
 
 ## 🛠️ Technologies & Tools
 
