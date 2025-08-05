@@ -9,7 +9,8 @@
     <img src="https://img.shields.io/github/followers/maulikagarwal8?style=flat&logoSize=auto&label=FOLLOWERS&color=blueviolet"/>
     <a href="mailto:maulikagarwal8024@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?logo=gmail&logoColor=white"/></a>
     <a href="https://linkedin.com/in/maulik-agarwal-039b73297"><img src="https://custom-icon-badges.demolab.com/badge/LINKED--IN-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
-    <img src="https://komarev.com/ghpvc/?username=maulikagarwal8&color=blueviolet&label=PROFILE+VISITED&abbreviated=true"/>
+    <img src="https://vbr.nathanchung.dev/badge?page_id=maulikagarwal8&color=blueviolet&text=PROFILE+VISITED&abbreviated=true"/>
+<!--     <img src="https://komarev.com/ghpvc/?username=maulikagarwal8&color=blueviolet&label=PROFILE+VISITED&abbreviated=true"/> -->
   </div>
   <img src="assets/coding_boy.gif" align="right" height="255px" width="350px"/>
   A passionate Computer Science Engineering student from Birla Institute of Technology Mesra Interested in all aspects related to development of software!
