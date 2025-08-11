@@ -42,13 +42,13 @@
 
 <img src="assets/octocat.png" alt="octocat" height="260px" align="left"/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=maulikagarwal8&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
+  <img height=103 align="center" src="https://github-readme-stats.vercel.app/api?username=maulikagarwal8&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulikagarwal8&size_weight=0.5&count_weight=0.5&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
+  <img height=101 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulikagarwal8&size_weight=0.5&count_weight=0.5&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=110 align="right" padding-left="0px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maulikagarwal8&theme=midnight_purple" />
+  <img height=118 align="center" padding-left="0px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maulikagarwal8&theme=midnight_purple" />
 </a>
 
 <!--
