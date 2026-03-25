@@ -32,9 +32,10 @@
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,azure,mysql,git,github,postman,vscode&theme=dark" alt="Skills"><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,mysql,git,github,postman,vscode&theme=dark" alt="Skills"><br>
   <img src="https://skillicons.dev/icons?i=python,selenium,flask,pytorch,sklearn,opencv&theme=dark" alt="Skills"><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb&theme=dark" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb&theme=dark" alt="Skills"><br>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker&theme=dark" alt="Skills">
 </div>
 
 
